@@ -29,7 +29,7 @@ import org.json.JSONObject;
 
 public class MainActivity extends AppCompatActivity {
 
-     public static String Main_Link = "https://rivierasoft.000webhostapp.com/";
+     public static String Main_Link = "";
 
      public static String Local_UserKey , Local_UserName, Local_UserEmail, Local_UserAvatar;
 
