@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity {
 //
 //// Instantiate the RequestQueue.
 //        RequestQueue queue = Volley.newRequestQueue(this);
-//        String url ="https://rivierasoft.000webhostapp.com";
+//        String url ="";
 //
 //// Request a string response from the provided URL.
 //        StringRequest stringRequest = new StringRequest(Request.Method.GET, url,
